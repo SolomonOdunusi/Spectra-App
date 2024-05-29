@@ -5,7 +5,7 @@ import spectra from "../assets/blue-spectra.png"
 export default function Login() {
   const handleClick = async () => {
     const client_id = "1445c814085c44929685e8547922fc0d";
-    const redirect_uri = "http://localhost:3000";
+    const redirect_uri = "https://spectra-app-two.vercel.app/";
     const api_uri = "https://accounts.spotify.com/authorize";
     const scope = [
       "user-read-private",
