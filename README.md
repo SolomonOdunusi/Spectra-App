@@ -23,7 +23,7 @@ No Known bugs at this time
 3. The above command will install all the packages in the json file
 4. The next step is to start your server with the following command:
 	`npm run dev`
-5. The message will be display
+5. It will display a link and by clicking on that link, it will redirect you to your browser with the app displayed
 
 # Contribution Guidelines
 1. fork the repository
