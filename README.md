@@ -1,17 +1,17 @@
-# Spectra - A Music Streaming app
+# Spectra-App - A Music Streaming app
 
-This project repository contains all the details for the spectra app.
+This project repository contains all the details for the Spectra-App.
 
-Spectra is a web-based `music streaming application` designed to cater for your diverse musical tastes. it allows users to explore the vast librairies of music, choose songs they love to listen, pause and play music without any restriction.
+Spectra is a web-based `*music streaming application*` designed to cater for your diverse musical tastes. it allows users to explore the vast librairies of music, choose songs they love to listen, pause and play music without any restriction.
 
 # Team Members
-- Solomon Odunusi:	[Github](https://github.com/SolomonOdunusi) | [Linkedin](https://www.linkedin.com/in/solomonodunusi)
-- Paulina Udeh: 	github [Github](https://github.com/paulina351) | [Linkedin](https://www.linkedin.com/in/paulina-a-c-udeh)
+- Solomon Odunusi:[Github](https://github.com/SolomonOdunusi) | [Linkedin](https://www.linkedin.com/in/solomonodunusi) | [X](https://x.com/SolomonOdunusi)
+- Paulina Udeh: [Github](https://github.com/paulina351) | [Linkedin](https://www.linkedin.com/in/paulina-a-c-udeh) | [X] (https://x.com/Paulina-acUdeh)
 
 # Technological used 
 - Javascript - `React/Redux`
 - Third party api: `spotify api`
-- management tools: `Trello, Git and Github`
+- Management tools: `Trello, Git and Github`
 
 
 # bug
@@ -37,5 +37,5 @@ No Known bugs at this time
 Public Domain. No copy write protection
 
 # Conclusion
-Spectra music alpp project is a success. it is a journey of collaborative learning and knowledge sharing. We invite you to exlore, choose from to your favorite music and listen on the go. Happy Listening
+Spectra music alpp project is a success. It is a journey of collaborative learning and knowledge sharing. We invite you to exlore, choose from your favorite musics and listen on the go. Happy Listening
 
